@@ -1,6 +1,6 @@
 public class pc_static_block {
     private static int NUM_END = 200000; // default input
-    private static int NUM_THREADS = 1;
+    private static int NUM_THREADS = 4;
 
     public static void main(String[] args) {
         if (args.length == 2) {

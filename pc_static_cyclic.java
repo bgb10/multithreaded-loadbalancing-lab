@@ -1,5 +1,5 @@
 public class pc_static_cyclic {
-    private static int NUM_END = 2000000; // default input
+    private static int NUM_END = 200000; // default input
     private static int NUM_THREADS = 4; // default number of threads
 
     public static void main(String[] args) {
